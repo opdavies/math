@@ -1,6 +1,6 @@
 tt-math
 =======
-[![Build Status](https://travis-ci.org/necromant2005/tt-math.svg)](https://travis-ci.org/necromant2005/tt-math)
+[![Build Status](https://travis-ci.org/truesocialmetrics/math.svg)](https://travis-ci.org/truesocialmetrics/math)
 
 Introduction
 ------------
@@ -28,7 +28,7 @@ Installation
 
 ```json
 "require": {
-    "necromant2005/tt-math": "1.*",
+    "truesocialmetrics/math": "1.*",
 }
 ```
 
